@@ -1,4 +1,4 @@
-### Hi. Welcome to my page. I'm Serena, a Software Engineer from Brazil currently living in the US. 
+### Hi. Welcome to my page. I'm Serena, a Software Developer from Brazil currently living in the US. 
 <hr />
 <p>
   <a href="https://www.linkedin.com/in/serenaterra/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
