@@ -28,7 +28,7 @@
   <img alt="npm" src="https://img.shields.io/badge/Pkg_Manager-NPM%20-%23CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img alt="yarn" src="https://img.shields.io/badge/-Yarn-blue?style=for-the-badge&logo=yarn&logoColor=pink" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/Programming-PHP%20-orange?style=for-the-badge&logo=php" />
+  <img alt="PHP" src="https://img.shields.io/badge/Programming-PHP%20-764ABC?style=for-the-badge&logo=php" />
   <img alt="Laravel" src="https://img.shields.io/badge/Framework-Laravel%20-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img alt="Angular" src="https://img.shields.io/badge/angular%20-%23DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
