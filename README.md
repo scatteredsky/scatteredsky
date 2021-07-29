@@ -58,7 +58,7 @@
 ![scatteredsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=scatteredsky&count_private=true&show_icons=true&theme=chartreuse-dark) 
 
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/scatteredsky/your-wallet?color=green&label=GH%20Commit%20Activity&style=for-the-badge)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/scatteredsky/your-wallet?color=green&style=for-the-badge)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/scatteredsky/mern-shop?style=for-the-badge)
 
