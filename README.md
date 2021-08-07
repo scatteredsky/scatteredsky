@@ -56,8 +56,8 @@
 
 <p> <br /> <br /> </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scatteredsky&show_icons=true&layout=demo&theme=algolia) 
 ![scatteredsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=scatteredsky&count_private=true&show_icons=true&theme=algolia) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scatteredsky&show_icons=true&layout=demo&theme=algolia) 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=scatteredsky&theme=algolia)](https://git.io/streak-stats)
 
