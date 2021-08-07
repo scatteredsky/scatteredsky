@@ -1,5 +1,5 @@
 ### Hi. Welcome to my page. I'm Serena, a Software Developer from Brazil currently living in the US. 
-<hr />
+***
 <p>
   <a href="https://www.linkedin.com/in/serenaterra/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
   <a href="https://www.instagram.com/scattered_sky/"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-blue?style=flat&logo=instagram" /></a>
@@ -17,7 +17,7 @@
 - 🤠 Fun facts: I played basketball in middle school and got second place in our interschool tournament. I'm an avid horseback rider, and I love the mountains. I also love eating! My favorite food is Italian, and my favorite guilty pleasure food is a hamburger with fries! I have three lovely furbabies 🐕 🐾 named Bob, Lucy, and Izzy. 😊
 
 
-#### Things I code with</h3>
+#### Things I code with:</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/UI-HTML5%20-%23E34F26?style=for-the-badge&logo=html5&logoColor=red" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS%20-%23335EA2?style=for-the-badge&logo=css3&logoColor=white" />
@@ -30,6 +30,7 @@
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/Programming-PHP%20-764ABC?style=for-the-badge&logo=php" />
   <img alt="Laravel" src="https://img.shields.io/badge/Framework-Laravel%20-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <br />
   <img alt="Angular" src="https://img.shields.io/badge/angular%20-%23DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
@@ -40,6 +41,7 @@
   <img alt="Figma" src="https://img.shields.io/badge/Design-Figma%20-%23F24E1E?&style=for-the-badge&logo=figma&logoColor=white"  />
   <img alt="BootStrap" src="https://img.shields.io/badge/UI-bootstrap%20-%23563D7C?&style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img alt="Materialize" src="https://img.shields.io/badge/UI-Materialize-%23F5A5A8?style=for-the-badge" />
+  <br />
   <img alt="MaterialUI" src="https://img.shields.io/badge/material%20ui%20-%230081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033?&style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000ff0?&style=for-the-badge&logo=markdown&logoColor=white" />  
@@ -52,14 +54,13 @@
   <img alt="" src="" /> 	
 </p>
 
-<p> <br /> </p>
+<p> <br /> <br /> </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scatteredsky&show_icons=true&layout=demo&theme=chartreuse-dark) 
-![scatteredsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=scatteredsky&count_private=true&show_icons=true&theme=chartreuse-dark) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scatteredsky&show_icons=true&layout=demo&theme=algolia) 
+![scatteredsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=scatteredsky&count_private=true&show_icons=true&theme=algolia) 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=scatteredsky&theme=algolia)](https://git.io/streak-stats)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/scatteredsky/your-wallet?color=green&style=for-the-badge)
-
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/scatteredsky/mern-shop?style=for-the-badge)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=scatteredsky&theme=chartreuse-dark)](https://git.io/streak-stats)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/scatteredsky/quote-of-the-day?color=green&style=for-the-badge)
