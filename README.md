@@ -62,6 +62,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=scatteredsky&theme=chartreuse-dark)](https://git.io/streak-stats)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/scatteredsky/online-mag?color=green&style=for-the-badge)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/scatteredsky/quote-of-the-day?color=green&style=for-the-badge)
 <!--
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/scatteredsky/your-wallet?color=green&style=for-the-badge)
 
