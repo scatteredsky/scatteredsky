@@ -6,18 +6,17 @@
   <a href="https://twitter.com/sct_sky"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white" /></a>
 </p>
 
-### Miscelaneous! 😅
 <img alt="Gratitude Flower" src="https://emojis.slackmojis.com/emojis/images/1588108758/8792/fb-thankful.png?1588108758" width="50px" height="50px" align="left" />
 
-- 🔭 I’m currently working with <kbd>Nodejs</kbd>, <kbd>React</kbd>, <kbd>Redux</kbd> <kbd>Javascript</kbd>, <kbd>PHP</kbd>, <kbd>Mongodb</kbd>, and <kbd>MySQL</kbd>. 
-- 👩🏻‍💻 I’m currently working on a very cool <kbd>JavaScript</kbd> project. Also working on <kbd>WordPress</kbd>, <kbd>React</kbd> and <kbd>Bootstrap</kbd> projects. 
-- 📚 I love reading & writing tech and non-tech blogs whenever possible.
-- ⚡ 2021 Goals: learn three new web technologies and continue to hone my skills.
-- 😄 Pronouns: She/Her
-- 🤠 Fun facts: I played basketball in middle school and got second place in our interschool tournament. I'm an avid horseback rider, and I love the mountains. I also love eating! My favorite food is Italian, and my favorite guilty pleasure food is a hamburger with fries! I have three lovely furbabies 🐕 🐾 named Bob, Lucy, and Izzy. 😊
+### Miscelaneous!
+<br>
+<p>📚 I love reading & writing tech and non-tech blogs whenever possible. <br>
+   🚀 2022 Goals: learn three new web technologies and continue to hone my skills.<br>
+   🤠 Fun facts: I played basketball in middle school and got second place in our interschool tournament. I'm an avid horseback rider, and I love the mountains. I also love eating! My favorite food is Sushi, I like Italian, and my favorite guilty pleasure food is a hamburger with fries! I have two lovely furbabies 🐕 🐾 named  Lucy and Izzy. 😊</p>
 
 
-#### Things I code with:</h3>
+
+#### Things I code with:
 <p>
   <img alt="html5" src="https://img.shields.io/badge/UI-HTML5%20-%23E34F26?style=for-the-badge&logo=html5&logoColor=red" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS%20-%23335EA2?style=for-the-badge&logo=css3&logoColor=white" />
@@ -54,18 +53,18 @@
   <img alt="" src="" /> 	
 </p>
 
-<p> <br /> <br /> </p>
+<p>I'm starting to learn <kbd>Java</kbd>. Keep posted! <br /> <br /> </p>
 
 ![scatteredsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=scatteredsky&count_private=true&show_icons=true&theme=algolia) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scatteredsky&show_icons=true&layout=demo&theme=algolia) 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=scatteredsky&theme=chartreuse-dark)](https://git.io/streak-stats)
-
+<!--
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/scatteredsky/online-mag?color=green&style=for-the-badge)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/scatteredsky/quote-of-the-day?color=green&style=for-the-badge)
-<!--
+
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/scatteredsky/your-wallet?color=green&style=for-the-badge)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/scatteredsky/mern-shop?style=for-the-badge)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/scatteredsky/quote-of-the-day?color=green&style=for-the-badge)
- [GitHub commit activity](https://img.shields.io/github/commit-activity/m/scatteredsky/special-systems?style=for-the-badge) -->
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/scatteredsky/special-systems?style=for-the-badge) -->
