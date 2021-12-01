@@ -53,7 +53,7 @@
   <img alt="" src="" /> 	
 </p>
 
-<p>I'm starting to learn <kbd>Java</kbd>. Keep posted! <br /> <br /> </p>
+<p>I'm starting to learn <kbd>Java</kbd> and <kbd>Python</kbd>. Keep posted! <br /> <br /> </p>
 
 ![scatteredsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=scatteredsky&count_private=true&show_icons=true&theme=algolia) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scatteredsky&show_icons=true&layout=demo&theme=algolia) 
