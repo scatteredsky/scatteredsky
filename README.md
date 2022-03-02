@@ -12,7 +12,7 @@
 <br>
 <p>📚 I love reading & writing tech and non-tech blogs whenever possible. <br>
    🚀 2022 Goals: learn three new web technologies and continue to hone my skills.<br>
-   🤠 Fun facts: I played basketball in middle school and got second place in our interschool tournament. I'm an avid horseback rider, and I love the mountains. I also love eating! My favorite food is Sushi, I like Italian, and my favorite guilty pleasure food is a hamburger with fries! I have two lovely furbabies 🐕 🐾 named  Lucy and Izzy. 😊</p>
+   🤠 Fun facts: I played basketball in middle school and got second place in our interschool tournament. I'm an avid horseback rider, and I love the mountains. I also love eating! My favorite food is Sushi, I like Italian, and one of my favorite guilty pleasure foods is a hamburger with fries! I have two lovely furbabies 🐕 🐾 named  Lucy and Izzy. 😊</p>
 
 
 
@@ -53,7 +53,7 @@
   <img alt="" src="" /> 	
 </p>
 
-<p>I'm learning <kbd>Python</kbd> and am starting to learn <kbd>Java</kbd>. Keep posted! <br /> <br /> </p>
+<p>I'm learning <kbd>Python</kbd> and am starting to learn <kbd>C++</kbd> <kbd>Java</kbd>. Keep posted! <br /> <br /> </p>
 
 ![scatteredsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=scatteredsky&count_private=true&show_icons=true&theme=algolia) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scatteredsky&show_icons=true&layout=demo&theme=algolia) 
