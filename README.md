@@ -15,7 +15,7 @@
    🤠 Fun facts: I played basketball in middle school and got second place in our interschool tournament. I'm an avid horseback rider, and I love the mountains. I also love eating! One of my favorite foods is Sushi. I also like Italian, and one of my favorite guilty pleasure foods is hamburger with fries! I have two lovely furbabies 🐕 🐾 named  Lucy and Izzy. 😊</p>
 
 
-<p>I'm learning <kbd>Python</kbd> and am starting to learn <kbd>Ruby</kbd>, <kbd>C#</kbd> and <kbd>Java</kbd>. Keep posted! <br> <br> </p>
+<p>I'm learning <kbd>Python</kbd> and am starting to learn <kbd>Java</kbd>, <kbd>dotNet</kbd>, <kbd>C#</kbd>, and <kbd>Ruby</kbd>. Keep posted! <br> <br> </p>
 <br>
 
 #### Things I code with:
