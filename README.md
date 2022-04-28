@@ -1,4 +1,4 @@
-### Hi. Welcome to my page. I'm Serena, a Software Developer living in the US. 
+### Hi. Welcome to my page. I'm Serena, a Software Engineer living in the US. 
 ***
 <p>
   <a href="https://www.linkedin.com/in/serenaterra/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-335EA2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
