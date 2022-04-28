@@ -8,12 +8,11 @@
 
 <img alt="Gratitude Flower" src="https://emojis.slackmojis.com/emojis/images/1588108758/8792/fb-thankful.png?1588108758" width="50px" height="50px" align="left" />
 
-### Miscelaneous!
+### Miscellaneous!
 <br>
-<p>📚 I love reading & writing tech and non-tech blogs whenever possible. <br>
-   🚀 2022 Goals: learn three new web technologies and continue to hone my skills and get certified in <em>a laundry list of things!</em><br>
-   🤠 Fun facts: I played basketball in middle school and got second place in our interschool tournament. I'm an avid horseback rider, and I love the mountains. I also love eating! One of my favorite foods is Sushi. I also like Italian, and one of my favorite guilty pleasure foods is hamburger with fries! I have two lovely furbabies 🐕 🐾 named  Lucy and Izzy. 😊</p>
-
+<p>📚 I love reading & writing tech and non-tech blogs whenever possible, but I also love to talk about finances and how to improve your financial life! </p>
+<p>🚀 2022 Goals: learn three new web technologies and continue to hone my skills and get certified in <em>a laundry list of things!</em></p>
+<p>🤠 Fun facts: I played basketball in middle school and got second place in our interschool tournament. I'm an avid horseback rider, and I love the mountains. I also love eating! One of my favorite foods is Sushi. I also like Italian, and one of my favorite guilty pleasure foods is hamburger with fries! I have two lovely furbabies 🐕 🐾 named  Lucy and Izzy. 😊</p>
 
 <p>I'm learning <kbd>Python</kbd> and am starting to learn <kbd>Java</kbd>, <kbd>dotNet</kbd>, <kbd>C#</kbd>, and <kbd>Ruby</kbd>. Keep posted! <br> <br> </p>
 <br>
