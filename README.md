@@ -1,16 +1,18 @@
 ### Hi. Welcome to my page. I'm Serena, a Software Developer living in the US. 
 ***
 <p>
-  <a href="https://www.linkedin.com/in/serenaterra/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://www.instagram.com/scattered_sky/"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-blue?style=flat&logo=instagram" /></a>
-  <a href="https://twitter.com/sct_sky"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/serenaterra/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-335EA2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/scattered_sky/"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-335EA2?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://twitter.com/sct_sky"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-335EA2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://twitch.tv/serenaclaireofficial"><img alt="Twitch" src="https://img.shields.io/badge/-Twitch-335EA2?style=for-the-badge&logo=twitch&logoColor=white" /></a>
 </p>
+
 
 <img alt="Gratitude Flower" src="https://emojis.slackmojis.com/emojis/images/1588108758/8792/fb-thankful.png?1588108758" width="50px" height="50px" align="left" />
 
 ### Miscellaneous!
 <br>
-<p>📚 I love reading & writing tech and non-tech blogs whenever possible, but I also love to talk about finances and how to improve your financial life! </p>
+<p>📚 I love reading & writing tech and non-tech blogs whenever possible, but I also <em>love</em> to talk about finances and how to improve your financial life! </p>
 <p>🚀 2022 Goals: learn three new web technologies and continue to hone my skills and get certified in <em>a laundry list of things!</em></p>
 <p>🤠 Fun facts: I played basketball in middle school and got second place in our interschool tournament. I'm an avid horseback rider, and I love the mountains. I also love eating! One of my favorite foods is Sushi. I also like Italian, and one of my favorite guilty pleasure foods is hamburger with fries! I have two lovely furbabies 🐕 🐾 named  Lucy and Izzy. 😊</p>
 
@@ -27,12 +29,12 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/Pkg_Manager-NPM%20-%23CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img alt="yarn" src="https://img.shields.io/badge/-Yarn-blue?style=for-the-badge&logo=yarn&logoColor=pink" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/Programming-PHP%20-764ABC?style=for-the-badge&logo=php&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/Framework-Laravel%20-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img alt="Angular" src="https://img.shields.io/badge/angular%20-%23DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000ff0?&style=for-the-badge&logo=markdown&logoColor=white" />  
   <img alt="AWS" src="https://img.shields.io/badge/Cloud-Amazon_Web_Services-%23FF7F00?style=for-the-badge&logo=amazonaws&logoColor=orange" />
   <img alt="GCP" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white" /> 
   <img alt="OCI" src="https://img.shields.io/badge/Oracle-Oracle_Cloud_Infrastructure-%23CD0000?style=for-the-badge&logo=oracle&logoColor=F80000"/>
@@ -42,8 +44,8 @@
   <img alt="Materialize" src="https://img.shields.io/badge/UI-Materialize-%23F5A5A8?style=for-the-badge" />
   <img alt="MaterialUI" src="https://img.shields.io/badge/material%20ui%20-%230081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033?&style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000ff0?&style=for-the-badge&logo=markdown&logoColor=white" />  
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-blueviolet?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img alt="Sublime Text" src="https://img.shields.io/badge/-Sublime_Text-brightgreen?style=for-the-badge&logo=sublimetext&logoColor=white" />
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ_IDEA-purple?style=for-the-badge&logo=intellijidea&logoColor=white" />
