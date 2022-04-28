@@ -29,20 +29,18 @@
   <img alt="npm" src="https://img.shields.io/badge/Pkg_Manager-NPM%20-%23CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img alt="yarn" src="https://img.shields.io/badge/-Yarn-blue?style=for-the-badge&logo=yarn&logoColor=pink" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/Programming-PHP%20-764ABC?style=for-the-badge&logo=php" />
+  <img alt="PHP" src="https://img.shields.io/badge/Programming-PHP%20-764ABC?style=for-the-badge&logo=php&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/Framework-Laravel%20-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <br />
   <img alt="Angular" src="https://img.shields.io/badge/angular%20-%23DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/Cloud-Amazon_Web_Services-%23FF7F00?style=for-the-badge&logo=amazonaws&logoColor=orange" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white" /> 
-  <img alt="Oracle Cloud Infrastructure" src="https://img.shields.io/badge/-Oracle_Cloud_Infrastructure-%23CD0000?style=for-the-badge"/>
+  <img alt="GCP" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white" /> 
+  <img alt="OCI" src="https://img.shields.io/badge/Oracle-Oracle_Cloud_Infrastructure-%23CD0000?style=for-the-badge&logo=oracle&logoColor=F80000"/>
   <img alt="Azure" src="https://img.shields.io/badge/Azure-%230080FF?style=for-the-badge&logo=azuredevops&logoColor=white"/>
   <img alt="Figma" src="https://img.shields.io/badge/Design-Figma%20-%23F24E1E?&style=for-the-badge&logo=figma&logoColor=white"  />
   <img alt="BootStrap" src="https://img.shields.io/badge/UI-bootstrap%20-%23563D7C?&style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img alt="Materialize" src="https://img.shields.io/badge/UI-Materialize-%23F5A5A8?style=for-the-badge" />
-  <br />
   <img alt="MaterialUI" src="https://img.shields.io/badge/material%20ui%20-%230081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033?&style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000ff0?&style=for-the-badge&logo=markdown&logoColor=white" />  
