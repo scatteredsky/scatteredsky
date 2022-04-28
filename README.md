@@ -47,6 +47,8 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-blueviolet?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img alt="Sublime Text" src="https://img.shields.io/badge/-Sublime_Text-brightgreen?style=for-the-badge&logo=sublimetext&logoColor=white" />
+  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ_IDEA-purple?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img alt="Visual Studio" src="https://img.shields.io/badge/-Visual_Studio-13AA52?style=for-the-badge&logo=visualstudio&logoColor=white" />
   <img alt="" src="" />
   <img alt="" src="" />  
   <img alt="" src="" />
