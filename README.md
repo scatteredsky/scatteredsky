@@ -20,7 +20,7 @@
 <p>I'm learning <kbd>Python</kbd> and am starting to learn <kbd>Java</kbd>, <kbd>dotNet</kbd>, <kbd>C#</kbd>, and <kbd>Ruby</kbd>. Keep posted! <br> <br> </p>
 <br>
 
-#### Things I code with:
+#### Technologies and tools I code with:
 <p>
   <img alt="html5" src="https://img.shields.io/badge/UI-HTML5%20-%23E34F26?style=for-the-badge&logo=html5&logoColor=red" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS%20-%23335EA2?style=for-the-badge&logo=css3&logoColor=white" />
@@ -48,6 +48,7 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-blueviolet?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img alt="JetBrains Apps" src="https://img.shields.io/badge/-JetBrains-black?style=for-the-badge&logo=jetbrains&logoColor=white" />
   <img alt="Sublime Text" src="https://img.shields.io/badge/-Sublime_Text-brightgreen?style=for-the-badge&logo=sublimetext&logoColor=white" />
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ_IDEA-purple?style=for-the-badge&logo=intellijidea&logoColor=white" />
   <img alt="Visual Studio" src="https://img.shields.io/badge/-Visual_Studio-13AA52?style=for-the-badge&logo=visualstudio&logoColor=white" />
