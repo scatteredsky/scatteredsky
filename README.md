@@ -1,6 +1,4 @@
 ## I am a Problem Solver. 😊
-### Hi! My name is Serena, and I'm working as a Software Engineer in the US. 
-***
 <p>
   <a href="https://www.linkedin.com/in/serenaterra/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-335EA2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/scattered_sky/"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-335EA2?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -8,7 +6,9 @@
   <a href="https://twitch.tv/serenaclaireofficial"><img alt="Twitch" src="https://img.shields.io/badge/-Twitch-335EA2?style=for-the-badge&logo=twitch&logoColor=white" /></a>
 </p>
 
+### Hi! My name is Serena, and I'm working as a Software Engineer in the US. 
 
+<br>
 <img alt="Gratitude Flower" src="https://emojis.slackmojis.com/emojis/images/1588108758/8792/fb-thankful.png?1588108758" width="50px" height="50px" align="left" />
 
 ### Miscellaneous!
@@ -20,7 +20,7 @@
 <p>I'm learning <kbd>Python</kbd> and am starting to learn <kbd>Java</kbd>, <kbd>dotNet</kbd>, <kbd>C#</kbd>, and <kbd>Ruby</kbd>. Keep posted! <br> <br> </p>
 <br>
 
-#### Technologies and tools I code with:
+### Technologies and tools I code with:
 <p>
   <img alt="html5" src="https://img.shields.io/badge/UI-HTML5%20-%23E34F26?style=for-the-badge&logo=html5&logoColor=red" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS%20-%23335EA2?style=for-the-badge&logo=css3&logoColor=white" />
