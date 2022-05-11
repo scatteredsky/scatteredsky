@@ -14,10 +14,13 @@
 ### Miscellaneous!
 <br>
 <p>📚 I love reading & writing tech and non-tech blogs whenever possible, but I also <em>love</em> to talk about finances and how to improve your financial life! </p>
-<p>🚀 2022 Goals: learn three new web technologies and continue to hone my skills and get certified in <em>a laundry list of things!</em></p>
+<p>🚀 2022 Goals: learn three new web technologies and continue to hone my skills and get certified in <em>a laundry list of things!</em> (see below as I update my journey).</p>
 <p>🤠 Fun facts: I played basketball in middle school and got second place in our interschool tournament. I'm an avid horseback rider, and I love the mountains. I also love eating! One of my favorite foods is Sushi. I also like Italian, and one of my favorite guilty pleasure foods is hamburger with fries! I have two lovely furbabies 🐕 🐾 named  Lucy and Izzy. 😊</p>
 
 <p>I'm learning <kbd>Python</kbd> and am starting to learn <kbd>Java</kbd>, <kbd>dotNet</kbd>, <kbd>C#</kbd>, and <kbd>Ruby</kbd>. Keep posted! <br> <br> </p>
+
+### Certifications (2022)
+<p>I am Microsoft certified in <em>Azure</em> Cloud (AZ-900) and <em>Oracle Cloud Infrastructure Foundations —Certified Associate.</em></p>
 <br>
 
 ### Technologies and tools I code with:
