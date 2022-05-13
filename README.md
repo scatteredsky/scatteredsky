@@ -21,6 +21,7 @@
 
 ### Certifications (2022)
 <p>I am Microsoft certified in <em>Azure</em> Cloud (AZ-900) and <em>Oracle Cloud Infrastructure Foundations —Certified Associate.</em></p>
+<p>In addition, I'm also <em>Lean Six-Sigma White Belt Certified.</em></p>
 <br>
 
 ### Technologies and tools I code with:
