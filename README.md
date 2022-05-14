@@ -1,27 +1,25 @@
 ## I am a Problem Solver. 😊
-<p>
   <a href="https://www.linkedin.com/in/serenaterra/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-335EA2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/scattered_sky/"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-335EA2?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://twitter.com/sct_sky"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-335EA2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://twitch.tv/serenaclaireofficial"><img alt="Twitch" src="https://img.shields.io/badge/-Twitch-335EA2?style=for-the-badge&logo=twitch&logoColor=white" /></a>
-</p>
 
 ### Hi! My name is Serena, and I'm working as a Software Engineer in the US. 
 
-<br>
-<img alt="Gratitude Flower" src="https://emojis.slackmojis.com/emojis/images/1588108758/8792/fb-thankful.png?1588108758" width="50px" height="50px" align="left" />
+![Markdown image](https://emojis.slackmojis.com/emojis/images/1588108758/8792/fb-thankful.png?1588108758 "Gratitude Flower")
 
 ### Miscellaneous!
-<br>
-<p>📚 I love reading & writing tech and non-tech blogs whenever possible, but I also <em>love</em> to talk about finances and how to improve your financial life! </p>
-<p>🚀 2022 Goals: learn three new web technologies and continue to hone my skills and get certified in <em>a laundry list of things!</em> (see below as I update my journey).</p>
-<p>🤠 Fun facts: I played basketball in middle school and got second place in our interschool tournament. I'm an avid horseback rider, and I love the mountains. I also love eating! One of my favorite foods is Sushi. I also like Italian, and one of my favorite guilty pleasure foods is hamburger with fries! I have two lovely furbabies 🐕 🐾 named  Lucy and Izzy. 😊</p>
 
-<p>I'm learning <kbd>Python</kbd> and am starting to learn <kbd>Java</kbd>, <kbd>dotNet</kbd>, <kbd>C#</kbd>, and <kbd>Ruby</kbd>. Keep posted! <br> <br> </p>
+📚 I love reading & writing tech and non-tech blogs whenever possible, but I also *love* to talk about finances and how to improve your financial life! 
+🚀 2022 Goals: learn three new web technologies and continue to hone my skills and get certified in *a laundry list of things!* (see below as I update my journey).
+
+🤠 Fun facts: I played basketball in middle school and got second place in our interschool tournament. I'm an avid horseback rider, and I love the mountains. I also love eating! One of my favorite foods is Sushi. I also like Italian, and one of my favorite guilty pleasure foods is hamburger with fries! I have two lovely furbabies 🐕 🐾 named  Lucy and Izzy. 😊
+
+I'm learning `Python` and am starting to learn `Java`, `dotNet`, `C#`, and `Ruby`. Keep posted! 
 
 ### Certifications (2022)
-<p>I am Microsoft certified in <em>Azure</em> Cloud (AZ-900) and <em>Oracle Cloud Infrastructure Foundations —Certified Associate.</em></p>
-<p>In addition, I'm also <em>Lean Six-Sigma White Belt Certified.</em></p>
+I am Microsoft certified in *Azure* Cloud (AZ-900) and *Oracle Cloud Infrastructure Foundations —Certified Associate.*
+In addition, I'm also *Lean Six-Sigma White Belt Certified.*
 <br>
 
 ### Technologies and tools I code with:
