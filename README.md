@@ -6,7 +6,7 @@
 
 ### Hi! My name is Serena, and I'm working as a Software Engineer in the US. 
 
-![Markdown image](https://emojis.slackmojis.com/emojis/images/1588108758/8792/fb-thankful.png?1588108758 "Gratitude Flower")
+![Gratitude Flower](https://emojis.slackmojis.com/emojis/images/1588108758/8792/fb-thankful.png?1588108758 "Gratitude Flower")
 
 ### Miscellaneous!
 
@@ -23,14 +23,9 @@ In addition, I'm also *Lean Six-Sigma White Belt Certified.*
 <br>
 
 ### Technologies and tools I code with:
+![HTML5](https://img.shields.io/badge/UI-HTML5%20-%23E34F26?style=for-the-badge&logo=html5&logoColor=red) ![CSS3](https://img.shields.io/badge/-CSS%20-%23335EA2?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript%20-yellow?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![ReactJS](https://img.shields.io/badge/Library-React%20-%2345b8d8?style=for-the-badge&logo=react&logoColor=white) ![NodeJS](https://img.shields.io/badge/js_runtime-node.js%20-brightgreen?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white) ![npm](https://img.shields.io/badge/Pkg_Manager-NPM%20-%23CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
 <p>
-  <img alt="html5" src="https://img.shields.io/badge/UI-HTML5%20-%23E34F26?style=for-the-badge&logo=html5&logoColor=red" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS%20-%23335EA2?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-yellow?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img alt="React" src="https://img.shields.io/badge/Library-React%20-%2345b8d8?style=for-the-badge&logo=react&logoColor=white" />
-  <img alt="NodeJS" src="https://img.shields.io/badge/js_runtime-node.js%20-brightgreen?style=for-the-badge&logo=node.js&logoColor=white"  />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/Pkg_Manager-NPM%20-%23CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img alt="yarn" src="https://img.shields.io/badge/-Yarn-blue?style=for-the-badge&logo=yarn&logoColor=pink" />
   <img alt="PHP" src="https://img.shields.io/badge/Programming-PHP%20-764ABC?style=for-the-badge&logo=php&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/Framework-Laravel%20-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
