@@ -25,15 +25,12 @@ In addition, I'm also *Lean Six-Sigma White Belt Certified.*
 ### Technologies and tools I code with:
 ![HTML5](https://img.shields.io/badge/UI-HTML5%20-%23E34F26?style=for-the-badge&logo=html5&logoColor=red) ![CSS3](https://img.shields.io/badge/-CSS%20-%23335EA2?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript%20-yellow?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![ReactJS](https://img.shields.io/badge/Library-React%20-%2345b8d8?style=for-the-badge&logo=react&logoColor=white) ![NodeJS](https://img.shields.io/badge/js_runtime-node.js%20-brightgreen?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white) ![npm](https://img.shields.io/badge/Pkg_Manager-NPM%20-%23CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Pkg_Manager-Yarn-blue?style=for-the-badge&logo=yarn&logoColor=pink) ![Markdown](https://img.shields.io/badge/UI-markdown-%23000ff0?&style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/Programming-PHP%20-764ABC?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Framework-Laravel%20-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) ![Angular](https://img.shields.io/badge/angular%20-%23DD0031?style=for-the-badge&logo=angular&logoColor=white) 
+![AWS](https://img.shields.io/badge/Cloud-Amazon_Web_Services-%23FF7F00?style=for-the-badge&logo=amazonaws&logoColor=orange) ![GCP](https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white) ![OCI](https://img.shields.io/badge/Oracle-Oracle_Cloud_Infrastructure-%23CD0000?style=for-the-badge&logo=oracle&logoColor=F80000) ![Azure](https://img.shields.io/badge/Cloud-Azure-%230080FF?style=for-the-badge&logo=azuredevops&logoColor=white)
 
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 
 <p>
-  <img alt="AWS" src="https://img.shields.io/badge/Cloud-Amazon_Web_Services-%23FF7F00?style=for-the-badge&logo=amazonaws&logoColor=orange" />
-  <img alt="GCP" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white" /> 
-  <img alt="OCI" src="https://img.shields.io/badge/Oracle-Oracle_Cloud_Infrastructure-%23CD0000?style=for-the-badge&logo=oracle&logoColor=F80000"/>
-  <img alt="Azure" src="https://img.shields.io/badge/Azure-%230080FF?style=for-the-badge&logo=azuredevops&logoColor=white"/>
   <img alt="Figma" src="https://img.shields.io/badge/Design-Figma%20-%23F24E1E?&style=for-the-badge&logo=figma&logoColor=white"  />
   <img alt="BootStrap" src="https://img.shields.io/badge/UI-bootstrap%20-%23563D7C?&style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img alt="Materialize" src="https://img.shields.io/badge/UI-Materialize-%23F5A5A8?style=for-the-badge" />
