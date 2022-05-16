@@ -24,15 +24,12 @@ In addition, I'm also *Lean Six-Sigma White Belt Certified.*
 
 ### Technologies and tools I code with:
 ![HTML5](https://img.shields.io/badge/UI-HTML5%20-%23E34F26?style=for-the-badge&logo=html5&logoColor=red) ![CSS3](https://img.shields.io/badge/-CSS%20-%23335EA2?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript%20-yellow?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![ReactJS](https://img.shields.io/badge/Library-React%20-%2345b8d8?style=for-the-badge&logo=react&logoColor=white) ![NodeJS](https://img.shields.io/badge/js_runtime-node.js%20-brightgreen?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white) ![npm](https://img.shields.io/badge/Pkg_Manager-NPM%20-%23CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/Pkg_Manager-Yarn-blue?style=for-the-badge&logo=yarn&logoColor=pink) ![Markdown](https://img.shields.io/badge/UI-markdown-%23000ff0?&style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/Programming-PHP%20-764ABC?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Framework-Laravel%20-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) ![Angular](https://img.shields.io/badge/angular%20-%23DD0031?style=for-the-badge&logo=angular&logoColor=white) 
+
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
 
 <p>
-  <img alt="yarn" src="https://img.shields.io/badge/-Yarn-blue?style=for-the-badge&logo=yarn&logoColor=pink" />
-  <img alt="PHP" src="https://img.shields.io/badge/Programming-PHP%20-764ABC?style=for-the-badge&logo=php&logoColor=white" />
-  <img alt="Laravel" src="https://img.shields.io/badge/Framework-Laravel%20-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img alt="Angular" src="https://img.shields.io/badge/angular%20-%23DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000ff0?&style=for-the-badge&logo=markdown&logoColor=white" />  
   <img alt="AWS" src="https://img.shields.io/badge/Cloud-Amazon_Web_Services-%23FF7F00?style=for-the-badge&logo=amazonaws&logoColor=orange" />
   <img alt="GCP" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white" /> 
   <img alt="OCI" src="https://img.shields.io/badge/Oracle-Oracle_Cloud_Infrastructure-%23CD0000?style=for-the-badge&logo=oracle&logoColor=F80000"/>
@@ -44,11 +41,11 @@ In addition, I'm also *Lean Six-Sigma White Belt Certified.*
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033?&style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-blueviolet?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img alt="JetBrains Apps" src="https://img.shields.io/badge/-JetBrains-black?style=for-the-badge&logo=jetbrains&logoColor=white" />
-  <img alt="Sublime Text" src="https://img.shields.io/badge/-Sublime_Text-brightgreen?style=for-the-badge&logo=sublimetext&logoColor=white" />
-  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ_IDEA-purple?style=for-the-badge&logo=intellijidea&logoColor=white" />
-  <img alt="Visual Studio" src="https://img.shields.io/badge/-Visual_Studio-13AA52?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/Tools-VS_Code-blueviolet?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img alt="JetBrains Apps" src="https://img.shields.io/badge/Tools-JetBrains-black?style=for-the-badge&logo=jetbrains&logoColor=white" />
+  <img alt="Sublime Text" src="https://img.shields.io/badge/Tools-Sublime_Text-brightgreen?style=for-the-badge&logo=sublimetext&logoColor=white" />
+  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/Tools-IntelliJ_IDEA-purple?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img alt="Visual Studio" src="https://img.shields.io/badge/Tools-Visual_Studio-13AA52?style=for-the-badge&logo=visualstudio&logoColor=white" />
   <img alt="" src="" />
   <img alt="" src="" />  
   <img alt="" src="" />
