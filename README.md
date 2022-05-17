@@ -35,6 +35,9 @@ In addition, I'm also *Lean Six-Sigma White Belt Certified.*
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scatteredsky&show_icons=true&layout=demo&theme=algolia) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=scatteredsky&theme=chartreuse-dark)](https://git.io/streak-stats)
 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/scatteredsky/gft-start-woman-java?color=green&style=for-the-badge)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/scatteredsky/spread-java-developer?color=green&style=for-the-badge)
+
 <!--
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/scatteredsky/online-mag?color=green&style=for-the-badge)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/scatteredsky/quote-of-the-day?color=green&style=for-the-badge)
