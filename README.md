@@ -39,10 +39,3 @@ In addition, I'm also *Lean Six-Sigma White Belt Certified.*
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/scatteredsky/spread-java-developer?color=green&style=for-the-badge)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/scatteredsky/scatteredsky?color=green&style=for-the-badge)
 
-<!--
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/scatteredsky/online-mag?color=green&style=for-the-badge)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/scatteredsky/quote-of-the-day?color=green&style=for-the-badge)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/scatteredsky/your-wallet?color=green&style=for-the-badge)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/scatteredsky/mern-shop?style=for-the-badge)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/scatteredsky/quote-of-the-day?color=green&style=for-the-badge)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/scatteredsky/special-systems?style=for-the-badge) -->
