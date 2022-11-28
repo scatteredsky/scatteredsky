@@ -11,7 +11,7 @@
 
 ### Miscellaneous!
 
-📚 I love reading & writing tech and non-tech blogs whenever possible, but I also *love* to talk about finances and how to improve your financial life! 
+📚 I love reading & writing tech and non-tech blogs whenever possible. When I am not talking tech, I *love* talking about finances and how to help you improve your financial life! 
 
 🚀 2023 Goals: learn three new web technologies as I continue to hone my skills and get certified in *a laundry list of things!* (see below as I update my journey).
 
