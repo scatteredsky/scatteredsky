@@ -15,7 +15,7 @@
 
 🚀 2023 Goals: learn three new web technologies as I continue to hone my skills and get certified in *a laundry list of things!* (see below as I update my journey).
 
-🤠 Fun facts: I played basketball in middle school and got second place in our interschool tournament. I'm an avid horseback rider, and I love the mountains. I also love eating! One of my favorite foods is Sushi. I also like Italian, and one of my favorite guilty pleasure foods is hamburger with fries! I have two lovely furbabies 🐕 🐾 named  *Lucy* and *Izzy*. 😊
+🤠 Fun facts: I played basketball in middle school and got second place in our interschool tournament. I'm an avid horseback rider, and I love the mountains. I also love eating! One of my favorite foods is Sushi. I also like Italian, and one of my favorite guilty pleasure foods is cheeseburger with fries! I have two lovely furbabies 🐕 🐾 named  *Lucy* and *Izzy*. 😊
 
 I'm learning `Python` and am starting to learn `Java`, `dotNet`, `C#`, `Ruby`, and `C++`. Keep posted! 
 
