@@ -17,7 +17,7 @@
 
 🤠 Fun facts: I played basketball in middle school and got second place in our interschool tournament. I'm an avid horseback rider, and I love the mountains. I also love eating! One of my favorite foods is Sushi. I also like Italian, and one of my favorite guilty pleasure foods is cheeseburger with fries! I have two lovely furbabies 🐕 🐾 named  *Lucy* and *Izzy*. 😊
 
-I'm learning `Python` and am starting to learn `Java`, `dotNet`, `C#`, `Ruby`, and `C++`. Keep posted! 
+I'm learning `Java` and am starting to learn `Python`, `dotNet`, `C#`, and `Ruby`. Keep posted! 
 
 ### Certifications
 I am Microsoft certified in *Azure* Cloud (AZ-900) and *Oracle Cloud Infrastructure Foundations —Certified Associate.*
