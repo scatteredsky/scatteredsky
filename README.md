@@ -34,11 +34,12 @@ In addition, I'm also *Lean Six-Sigma White Belt Certified.*
 
 
 ![scatteredsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=scatteredsky&count_private=true&show_icons=true&theme=algolia) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scatteredsky&show_icons=true&layout=demo&theme=algolia) 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scatteredsky&show_icons=true&layout=demo&theme=algolia) -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=scatteredsky&theme=chartreuse-dark)](https://git.io/streak-stats)
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/scatteredsky/gft-start-woman-java?color=green&style=for-the-badge)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/scatteredsky/spread-java-developer?color=green&style=for-the-badge)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/scatteredsky/scatteredsky?color=green&style=for-the-badge)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/scatteredsky/wguprojects?color=green&style=for-the-badge)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/scatteredsky/js-diverse-projects?labelColor=green&style=for-the-badge)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/scatteredsky/java-developer?labelColor=green&style=for-the-badge)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/scatteredsky/scatteredsky?labelColor=green&style=for-the-badge)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/scatteredsky/wguprojects?labelColor=green&style=for-the-badge)
 
