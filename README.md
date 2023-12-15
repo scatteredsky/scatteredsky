@@ -1,7 +1,7 @@
 ## I am a Problem Solver. 😊
 ![Gratitude Flower](https://emojis.slackmojis.com/emojis/images/1588108758/8792/fb-thankful.png?1588108758 "Gratitude Flower")
 
-### Hi! My name is Serena, and I'm a Software Engineer in the US.
+### Hi! My name is Serena!
   <a href="https://www.linkedin.com/in/serenaterra/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-335EA2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/serenaclaireofficial/"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-335EA2?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://twitter.com/TerraBytes67736"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-335EA2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
