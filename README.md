@@ -14,9 +14,6 @@
 
 📚 I love reading & writing tech and non-tech blogs whenever possible.
 
-### Certifications
-I am Microsoft certified in *Azure* Cloud (AZ-900) and *Oracle Cloud Infrastructure Foundations —Certified Associate.*
-In addition, I'm also *Lean Six-Sigma White Belt Certified.*
 <br>
 
 ### Some Tools & Technologies I work with:
@@ -24,6 +21,13 @@ In addition, I'm also *Lean Six-Sigma White Belt Certified.*
 ![Azure](https://img.shields.io/badge/Cloud-Microsoft_Azure-%230A0F4E?style=for-the-badge&logo=microsoftazure&logoColor=blue) ![AWS](https://img.shields.io/badge/Cloud-Amazon_Web_Services-%23FF7F00?style=for-the-badge&logo=amazonaws&logoColor=orange) ![GCP](https://img.shields.io/badge/Cloud-Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white) ![OCI](https://img.shields.io/badge/Cloud-Oracle_Cloud_Infrastructure-darkred?style=for-the-badge&logo=oracle&logoColor=F80000) ![GIT](https://img.shields.io/badge/git%20-black?&style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-F7DF1E?style=for-the-badge&logo=docker&logoColor=blue) 
 ![Visual Studio Code](https://img.shields.io/badge/Tools-VS_Code-violet?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![JetBrains Apps](https://img.shields.io/badge/Tools-JetBrains-orange?style=for-the-badge&logo=jetbrains&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/Tools-IntelliJ_IDEA-purple?style=for-the-badge&logo=intellijidea&logoColor=white) ![PHP Storm](https://img.shields.io/badge/Tools-PHP_Storm-orange?style=for-the-badge&logo=phpstorm&logoColor=white) ![PyCharm](https://img.shields.io/badge/Tools-PyCharm-13AA52?style=for-the-badge&logo=pycharm&logoColor=white) 
 
+<br>
+
+### Certifications
+I am Microsoft certified in *Azure* Cloud (AZ-900) and *Oracle Cloud Infrastructure Foundations —Certified Associate.*
+
+In addition, I'm also *Lean Six-Sigma White Belt Certified.*
+<br><br>
 
 ![scatteredsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=scatteredsky&count_private=true&show_icons=true&theme=algolia) 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scatteredsky&show_icons=true&layout=demo&theme=algolia) -->
@@ -32,6 +36,7 @@ In addition, I'm also *Lean Six-Sigma White Belt Certified.*
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/scatteredsky/js-diverse-projects?labelColor=green&style=for-the-badge)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/scatteredsky/java-developer?labelColor=green&style=for-the-badge)
+
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/scatteredsky/quebec-java-digital-bootcamp?labelColor=green&style=for-the-badge)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/scatteredsky/wguprojects?labelColor=green&style=for-the-badge)
 
