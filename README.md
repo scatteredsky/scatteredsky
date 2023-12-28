@@ -29,13 +29,13 @@ I am Microsoft certified in *Azure* Cloud (AZ-900) and *Oracle Cloud Infrastruct
 In addition, I'm also *Lean Six-Sigma White Belt Certified.*
 <br><br>
 
-![scatteredsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=scatteredsky&count_private=true&show_icons=true&theme=algolia) 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scatteredsky&show_icons=true&layout=demo&theme=algolia) -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=scatteredsky&theme=chartreuse-dark)](https://git.io/streak-stats)
+![scatteredsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=scatteredsky&count_private=true&show_icons=true&theme=chartreuse-dark) 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scatteredsky&layout=compact&theme=chartreuse-dark)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=scatteredsky&theme=chartreuse-dark)](https://git.io/streak-stats)
 
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/scatteredsky/js-diverse-projects?labelColor=green&style=for-the-badge)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/scatteredsky/java-developer?labelColor=green&style=for-the-badge)
+<!-- ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/scatteredsky/java-developer?labelColor=green&style=for-the-badge) -->
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/scatteredsky/quebec-java-digital-bootcamp?labelColor=green&style=for-the-badge)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/scatteredsky/wguprojects?labelColor=green&style=for-the-badge)
