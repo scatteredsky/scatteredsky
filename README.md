@@ -30,7 +30,7 @@ In addition, I'm also *Lean Six-Sigma White Belt Certified.*
 <br><br>
 
 ![scatteredsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=scatteredsky&count_private=true&show_icons=true&theme=chartreuse-dark) 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scatteredsky&layout=compact&theme=chartreuse-dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scatteredsky&layout=donut&theme=chartreuse-dark)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=scatteredsky&theme=chartreuse-dark)](https://git.io/streak-stats)
 
 
