@@ -8,9 +8,10 @@
   <a href="https://twitch.tv/serenaclaireofficial"><img alt="Twitch" src="https://img.shields.io/badge/-Twitch-335EA2?style=for-the-badge&logo=twitch&logoColor=white" /></a>
 
 
-👩🏻‍💻 I’m a software engineer based in Illinois, USA. I’ve worked many years as a freelance developer and now I decided to go for my bachelor’s in Software Engineering to help fill the gaps of my self-taught journey.
+👩🏻‍💻 I’m a software engineer based in Illinois, USA. <br>
+I’ve worked many years as a freelance developer before pursuing a second bachelor's degree to help fill the gaps in my self-taught journey. I should receive my Bachelor's Degree in Software Engineering by the end of 2025.
 	
-👩🏻‍🎓 I am currently studying `Java`, `Python`, `Go`, `Ruby` (and `Ruby on Rails`). 
+👩🏻‍🎓 I am interested in `Java`, `Python`, `Go`, `Ruby` (and `Ruby on Rails`). 
 
 📚 I love reading & writing tech and non-tech blogs whenever possible.
 
